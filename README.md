@@ -3,6 +3,6 @@ The purpose of the project is to run analysis on MySQL on 'awesome chocolates' d
 
 ```We have imported the file already into MySQL workbench;
 ```
+The objective is to know which are top performing locations and sales accumelated 
+![Query Output](https://github.com/junaidnaeem-carleton/MySQL/blob/main/t0.png?raw=true)
 
-
-![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p1.png?raw=true)
