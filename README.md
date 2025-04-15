@@ -6,5 +6,7 @@ The purpose of the project is to run analysis on MySQL on 'awesome chocolates' d
 The objective is to know which are top performing locations and sales accumelated 
 ![Query Output](https://github.com/junaidnaeem-carleton/MySQL/blob/main/t0.png?raw=true)
 
+
+
 Which product was sold the most overall
 ![Query Output](https://github.com/junaidnaeem-carleton/MySQL/blob/main/t1.png?raw=true)
